@@ -10,4 +10,3 @@ def my_collect(array)
   collection
 end 
 
-mycollect(list) {|i| i.split(" ").first}
