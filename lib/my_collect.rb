@@ -1,3 +1,5 @@
+list = 
+
 def my_collect(array) 
   i = 0 
   collection = []
@@ -8,4 +10,4 @@ def my_collect(array)
   collection
 end 
 
-my_
+mycollect(list)
